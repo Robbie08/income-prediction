@@ -1,4 +1,4 @@
-﻿# income-prediction
+﻿# Income Prediction Project
  
 ## What this project hopes to accomplish 
 What we hope to accomplish with this project is to use Machine Learning models and tools to  predict who can earn more than $50,000 per year. 
