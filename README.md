@@ -8,6 +8,7 @@ These Machine Learning models will be trained using census data either collected
 We will define this project as successful based on the accuracy of the model and the insights  that we can gain from the project. For example, finding that a person's ability to make >$50K  per year or not is affected by something like, let's say, marital status or native country would be  some good insight to attain. We will also be formulating new insights and hypotheses  throughout the project. 
 
  ## Team:
+ * Alexandra Lim
  * Sayaka Kuwayama
  * Robert Ortiz
  
